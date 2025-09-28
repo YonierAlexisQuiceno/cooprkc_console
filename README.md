@@ -2,7 +2,7 @@
 Proyecto Java con menús por consola para ADMIN y SOCIO.
 
 ## Linck del video 
-https://youtu.be/TzlIsZZp_S8
+https://youtu.be/ASCZ-GYmRhE
 
 ## Estructura
 src/
